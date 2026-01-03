@@ -39,8 +39,8 @@ class Settings(BaseSettings):
     log_level: str = "INFO"
 
     # External APIs
-    castellum_api_key: Optional[str] = None
-    castellum_api_url: str = "https://api.castellum.ai/v1"
+    external_data_api_key: Optional[str] = None
+    external_data_api_url: str = "https://api.example.com/v1"
 
     # LLM Settings
     llm_temperature_deterministic: float = 0.05

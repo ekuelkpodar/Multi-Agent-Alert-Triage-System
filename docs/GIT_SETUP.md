@@ -321,6 +321,6 @@ If making the repository public, add an appropriate LICENSE file.
 For proprietary code, add:
 
 ```
-Copyright (c) 2026 Castellum.AI
+Copyright (c) 2026 AML Triage System
 All rights reserved.
 ```

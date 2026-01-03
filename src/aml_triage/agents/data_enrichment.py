@@ -167,7 +167,7 @@ Be objective and focus on facts relevant to AML/KYC compliance."""
         self, name: str, aliases: List[str]
     ) -> AdverseMediaExtended:
         """Fetch adverse media for the entity."""
-        # In production, this would call Castellum.AI API or other media sources
+        # In production, this would call external API or other media sources
         # For now, return mock data
         return AdverseMediaExtended(
             new_sources_found=0,

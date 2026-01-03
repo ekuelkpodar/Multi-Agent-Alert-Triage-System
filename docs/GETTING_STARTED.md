@@ -298,5 +298,5 @@ poetry run ruff check src/
 
 For issues and questions:
 - GitHub Issues: <repository-url>/issues
-- Email: support@castellum.ai
+- Email: support@example.com
 - Documentation: [docs/](docs/)

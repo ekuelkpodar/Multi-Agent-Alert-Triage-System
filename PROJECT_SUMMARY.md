@@ -322,7 +322,7 @@ poetry run pytest tests/integration/
 - [ ] Mobile-friendly UI
 
 ### Integration Opportunities
-- [ ] Castellum.AI API integration
+- [ ] AML Triage System API integration
 - [ ] Major CRM systems (Salesforce, etc.)
 - [ ] Transaction monitoring platforms
 - [ ] Case management systems
@@ -350,18 +350,18 @@ poetry run pytest tests/integration/
 
 ## License
 
-Proprietary - Castellum.AI
+Proprietary - AML Triage System
 
 ## Support
 
 - **Issues**: GitHub Issues
-- **Email**: support@castellum.ai
+- **Email**: support@example.com
 - **Documentation**: `/docs` directory
 - **Examples**: `/examples` directory
 
 ## Contributors
 
-Built for Castellum.AI's AML compliance automation platform.
+Built for AML Triage System's AML compliance automation platform.
 
 ## Acknowledgments
 

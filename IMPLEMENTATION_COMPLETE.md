@@ -125,7 +125,7 @@ poetry run pytest
    - Set up Redis (optional)
 
 2. **External Integrations**
-   - Connect to Castellum.AI API
+   - Connect to AML Triage System API
    - Integrate with CRM systems
    - Set up transaction monitoring feeds
 
@@ -181,7 +181,7 @@ poetry run pytest
 
 ## License
 
-Proprietary - Castellum.AI
+Proprietary - AML Triage System
 
 ---
 

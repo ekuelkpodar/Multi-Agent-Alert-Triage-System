@@ -2,7 +2,7 @@
 name = "aml-alert-triage"
 version = "0.1.0"
 description = "Multi-Agent Alert Triage System for AML/KYC Compliance"
-authors = ["Castellum.AI <dev@castellum.ai>"]
+authors = ["AML Triage Team"]
 readme = "README.md"
 packages = [{include = "aml_triage", from = "src"}]
 

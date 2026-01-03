@@ -275,4 +275,4 @@ Your **Multi-Agent Alert Triage System** is now live on GitHub and ready for:
 **Deployed**: January 2026
 **Status**: ✅ Live on GitHub
 **Commits**: 3 (including comprehensive implementation)
-**License**: Proprietary - Castellum.AI
+**License**: Proprietary - AML Triage System

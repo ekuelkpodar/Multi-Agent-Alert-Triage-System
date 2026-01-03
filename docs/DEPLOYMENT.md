@@ -172,8 +172,8 @@ PROMETHEUS_PORT=9090
 LOG_LEVEL=INFO
 
 # External APIs
-CASTELLUM_API_KEY=xxx
-CASTELLUM_API_URL=https://api.castellum.ai/v1
+EXTERNAL_DATA_API_KEY=xxx
+EXTERNAL_DATA_API_URL=https://api.example.com/v1
 ```
 
 ### Database Setup

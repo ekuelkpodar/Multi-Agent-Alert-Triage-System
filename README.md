@@ -118,8 +118,8 @@ poetry run ruff check src/
 
 ## License
 
-Proprietary - Castellum.AI
+MIT License
 
 ## Support
 
-For issues and questions, contact: support@castellum.ai
+For issues and questions, please open an issue on GitHub.
